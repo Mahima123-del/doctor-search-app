@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anjali Sharma",
+    "specialization": "Cardiologist",
+    "location": "Bangalore",
+    "availability": "Mon-Fri, 9AM-5PM",
+    "image": "/images/photo2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ravi Verma",
+    "specialization": "Dermatologist",
+    "location": "Mumbai",
+    "availability": "Mon-Sat, 10AM-6PM",
+    "image": "/images/photo2.jpg"
+  }
+]
